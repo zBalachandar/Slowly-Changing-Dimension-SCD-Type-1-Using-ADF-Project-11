@@ -19,8 +19,8 @@ In this project, I discussed about Slowly changing Dimension Type1 using mapping
 Dataset : 
 <br>
 <div>
-  SQL script:
-➖➖➖➖
+SQL script:
+
 CREATE TABLE employee
 (
     employee_id INT,
