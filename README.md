@@ -34,7 +34,6 @@ INSERT INTO EMPLOYEE VALUES(2,'NEHA',5000,'india')
 INSERT INTO EMPLOYEE VALUES(4,'SURYA',5000,'UK')
 </div>
 
-</br>
 ### Business Requirement.
 ![image](https://github.com/zBalachandar/Slowly-Changing-Dimension-SCD-Type-1-Using-ADF-Project-11/blob/0a0d90c7851705963c5f756fc0b997eb3cfd7f3d/Assets/Business%20requirements.jpg)
 
