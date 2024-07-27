@@ -1,5 +1,5 @@
 # Slowly-Changing-Dimension-SCD-Type-1-Using-ADF-Project-11
-In this project, I discussed about Slowly changing Dimension Type1 using mapping data flows in azure data factory(ADF).
+In this project, I discussed about Slowly changing Dimension Type1 using mapping data flows in Azure Data Factory (ADF).
 <div align="center">
   <a href="#">
     <img src="https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/531ef59f65fb8326a86e172d8802420763c92ad9/Assets/AZURE%20portal%20ov.png" alt="Banner" width="720">
@@ -17,7 +17,9 @@ In this project, I discussed about Slowly changing Dimension Type1 using mapping
 
 ### 💾 Dataset
 Dataset : 
-SQL script:
+<br>
+<div>
+  SQL script:
 ➖➖➖➖
 CREATE TABLE employee
 (
@@ -30,14 +32,14 @@ CREATE TABLE employee
 INSERT INTO EMPLOYEE VALUES(1,'manish',10000,'india')
 INSERT INTO EMPLOYEE VALUES(2,'NEHA',5000,'india')
 INSERT INTO EMPLOYEE VALUES(4,'SURYA',5000,'UK')
+</div>
 
-
+</br>
 ### Business Requirement.
 ![image](https://github.com/zBalachandar/Slowly-Changing-Dimension-SCD-Type-1-Using-ADF-Project-11/blob/0a0d90c7851705963c5f756fc0b997eb3cfd7f3d/Assets/Business%20requirements.jpg)
 
 ### Design and Development of pipeline:
-![image]()
-
+![image](https://github.com/zBalachandar/Slowly-Changing-Dimension-SCD-Type-1-Using-ADF-Project-11/blob/0a0d90c7851705963c5f756fc0b997eb3cfd7f3d/Assets/pipeline%20showcase.png)
 
 ### Project steps to follow: 
 what we have covered in this project:
